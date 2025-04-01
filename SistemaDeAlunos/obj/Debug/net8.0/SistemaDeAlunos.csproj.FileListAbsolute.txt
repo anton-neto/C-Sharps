@@ -1,0 +1,14 @@
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.exe
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.deps.json
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.runtimeconfig.json
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfoInputs.cache
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfo.cs
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\refint\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.genruntimeconfig.cache
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\ref\SistemaDeAlunos.dll
