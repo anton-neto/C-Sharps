@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANTONIOADAIRCABREIRA\\SistemaDeAlunos\\SistemaDeAlunos.csproj": {}
+    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\C-Sharps\\SistemaDeAlunos\\SistemaDeAlunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANTONIOADAIRCABREIRA\\SistemaDeAlunos\\SistemaDeAlunos.csproj": {
+    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\C-Sharps\\SistemaDeAlunos\\SistemaDeAlunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANTONIOADAIRCABREIRA\\SistemaDeAlunos\\SistemaDeAlunos.csproj",
+        "projectUniqueName": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\C-Sharps\\SistemaDeAlunos\\SistemaDeAlunos.csproj",
         "projectName": "SistemaDeAlunos",
-        "projectPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\SistemaDeAlunos\\SistemaDeAlunos.csproj",
+        "projectPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\C-Sharps\\SistemaDeAlunos\\SistemaDeAlunos.csproj",
         "packagesPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\SistemaDeAlunos\\obj\\",
+        "outputPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\C-Sharps\\SistemaDeAlunos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANTONIOADAIRCABREIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
